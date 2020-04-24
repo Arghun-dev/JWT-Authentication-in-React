@@ -1,1 +1,1 @@
-# JWT-Authentication-in-React
+# JWT-Authentication-in-React and Redux
